@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c917ecccd04e0467e8536422eb57d81a
+timeCreated: 1498929758
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AnimationController: {instanceID: 0}
+  - Ball: {fileID: 54351432832515270, guid: 35376c6d373314e12a40f29cd063a50b, type: 2}
+  - Cube: {instanceID: 0}
+  - StrikeController: {instanceID: 0}
+  - MainCamera: {instanceID: 0}
+  - CenterCamera: {instanceID: 0}
+  - LeftCamera: {instanceID: 0}
+  - RightCamera: {instanceID: 0}
+  - BallCamera: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - BallCameraController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
